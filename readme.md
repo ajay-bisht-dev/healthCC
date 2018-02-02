@@ -1,5 +1,5 @@
 
-![alt text](med.png)
+![alt text](extra/med.png)
 
 ## USA MEDICARE DATA ANALYSIS
 
